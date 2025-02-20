@@ -161,6 +161,10 @@ DOMAIN-SUFFIX,zjcdn.com
 DOMAIN-SUFFIX,cctv.com
 DOMAIN-SUFFIX,cctvpic.com
 DOMAIN-SUFFIX,livechina.com
+USER-AGENT,ITV_Player*
+DOMAIN,itvpnpmobile-a.akamaihd.net
+DOMAIN-SUFFIX,itv.com
+DOMAIN-SUFFIX,itvstatic.com
 
 
 # HuaWei
