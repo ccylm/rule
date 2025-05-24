@@ -6,18 +6,6 @@ DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 
-# 域名关键字匹配
-DOMAIN-KEYWORD,baidu
-
-# ewelink
-IP-CIDR,140.179.168.28/32,no-resolve
-IP-CIDR,142.132.149.97/32,no-resolve
-IP-CIDR,118.212.136.159/32,no-resolve
-IP-CIDR,52.80.9.35/32,no-resolve
-IP-CIDR,71.132.20.240/32,no-resolve
-IP-CIDR,58.222.42.59/32,no-resolve
-IP-CIDR,54.222.162.178/32,no-resolve
-
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
@@ -29,6 +17,18 @@ IP-CIDR,223.6.6.6/32,no-resolve
 IP-CIDR,180.76.76.76/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,baidu
+
+# ewelink
+IP-CIDR,140.179.168.28/32,no-resolve
+IP-CIDR,142.132.149.97/32,no-resolve
+IP-CIDR,118.212.136.159/32,no-resolve
+IP-CIDR,52.80.9.35/32,no-resolve
+IP-CIDR,71.132.20.240/32,no-resolve
+IP-CIDR,58.222.42.59/32,no-resolve
+IP-CIDR,54.222.162.178/32,no-resolve
 
 # 360
 DOMAIN-SUFFIX,360.com
