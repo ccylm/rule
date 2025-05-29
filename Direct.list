@@ -27,11 +27,11 @@ DOMAIN-KEYWORD,coolkit
 IP-CIDR,140.179.168.0/24,no-resolve
 IP-CIDR,142.132.149.0/24,no-resolve
 IP-CIDR,118.212.136.0/24,no-resolve
-IP-CIDR,52.80.9.0/16,no-resolve
+IP-CIDR,52.80.0.0/16,no-resolve
 IP-CIDR,54.223.105.0/24,no-resolve
-IP-CIDR,71.132.20.0/16,no-resolve
+IP-CIDR,71.132.0.0/16,no-resolve
 IP-CIDR,71.131.233.0/24,no-resolve
-IP-CIDR,58.222.42.0/16,no-resolve
+IP-CIDR,58.222.0.0/16,no-resolve
 IP-CIDR,54.222.162.0/24,no-resolve
 
 # 360
