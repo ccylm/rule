@@ -24,20 +24,15 @@ DOMAIN-KEYWORD,ewelink
 DOMAIN-KEYWORD,coolkit
 
 # ewelink
-IP-CIDR,140.179.168.28/32,no-resolve
-IP-CIDR,142.132.149.97/32,no-resolve
-IP-CIDR,118.212.136.159/32,no-resolve
-IP-CIDR,52.80.9.35/32,no-resolve
-IP-CIDR,52.80.19.131/32,no-resolve
-IP-CIDR,52.80.80.39/32,no-resolve
-IP-CIDR,54.223.105.164/32,no-resolve
-IP-CIDR,71.132.20.240/32,no-resolve
-IP-CIDR,71.132.31.158/32,no-resolve
-IP-CIDR,71.131.233.37/32,no-resolve
-IP-CIDR,58.222.42.59/32,no-resolve
-IP-CIDR,58.222.42.53/32,no-resolve
-IP-CIDR,58.222.42.56/32,no-resolve
-IP-CIDR,54.222.162.178/32,no-resolve
+IP-CIDR,140.179.168.0/24,no-resolve
+IP-CIDR,142.132.149.0/24,no-resolve
+IP-CIDR,118.212.136.0/24,no-resolve
+IP-CIDR,52.80.9.0/16,no-resolve
+IP-CIDR,54.223.105.0/24,no-resolve
+IP-CIDR,71.132.20.0/16,no-resolve
+IP-CIDR,71.131.233.0/24,no-resolve
+IP-CIDR,58.222.42.0/16,no-resolve
+IP-CIDR,54.222.162.0/24,no-resolve
 
 # 360
 DOMAIN-SUFFIX,360.com
