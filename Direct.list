@@ -21,7 +21,6 @@ IP-CIDR,114.114.115.115/32,no-resolve
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,ewelink
-DOMAIN-KEYWORD,coolkit
 
 # ewelink
 IP-CIDR,140.179.168.28/32,no-resolve
