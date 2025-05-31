@@ -9,6 +9,8 @@ DOMAIN-SUFFIX,hao123.com
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
+IP-CIDR,218.2.2.2/32,no-resolve
+IP-CIDR,218.4.4.4/32,no-resolve
 IP-CIDR,119.29.29.29/32,no-resolve
 IP-CIDR,223.5.5.5/32,no-resolve
 IP-CIDR,223.6.6.6/32,no-resolve
@@ -23,7 +25,6 @@ DOMAIN-KEYWORD,coolkit
 
 # ewelink
 IP-CIDR,140.179.168.28/32,no-resolve
-IP-CIDR,142.132.149.97/32,no-resolve
 IP-CIDR,118.212.136.159/32,no-resolve
 IP-CIDR,52.80.9.35/32,no-resolve
 IP-CIDR,52.80.19.131/32,no-resolve
