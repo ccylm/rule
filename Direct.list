@@ -5,7 +5,6 @@
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
-DOMAIN-SUFFIX,zuhaoguanjia.com
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
@@ -22,6 +21,7 @@ IP-CIDR,114.114.115.115/32,no-resolve
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,ewelink
+DOMAIN-KEYWORD,zuhaoguanjia
 
 # ewelink
 IP-CIDR,140.179.168.28/32,no-resolve
