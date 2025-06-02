@@ -9,6 +9,8 @@ DOMAIN-SUFFIX,hao123.com
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
+IP-CIDR,218.2.2.2/32,no-resolve
+IP-CIDR,218.4.4.4/32,no-resolve
 IP-CIDR,119.29.29.29/32,no-resolve
 IP-CIDR,223.5.5.5/32,no-resolve
 IP-CIDR,223.6.6.6/32,no-resolve
