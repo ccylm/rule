@@ -1,20 +1,8 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
-
 # MyList
-# 域名后缀匹配
-DOMAIN-SUFFIX,time.windows.com
-DOMAIN-SUFFIX,lanzov.com
-DOMAIN-SUFFIX,hao123.com
+
 
 # 国内DNS
-DOMAIN-SUFFIX,dns.alidns.com
-DOMAIN-SUFFIX,doh.pub
-IP-CIDR,119.29.29.29/32,no-resolve
-IP-CIDR,223.5.5.5/32,no-resolve
-IP-CIDR,223.6.6.6/32,no-resolve
-IP-CIDR,180.76.76.76/32,no-resolve
-IP-CIDR,114.114.114.114/32,no-resolve
-IP-CIDR,114.114.115.115/32,no-resolve
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
