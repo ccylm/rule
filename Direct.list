@@ -17,7 +17,6 @@ IP-CIDR,114.114.115.115/32,no-resolve
 DOMAIN-KEYWORD,ewelink
 DOMAIN-SUFFIX,logitechg.com
 
-
 # ddnstod
 IP-CIDR,58.216.95.19/32,no-resolve
 
